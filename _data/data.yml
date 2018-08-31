@@ -1,0 +1,114 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Sergio Gil
+    tagline: Estudiante ingenieria de sistemas 
+    avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sagilm@unal.edu.co
+    
+    #website: blog.webjeda.com #do not add http://
+    linkedin: sergio-gil-medina-01494a14b
+    github: sagilm
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    instagram: alexxandriv
+
+    languages:
+      - idiom: English
+        level: advanced
+
+      - idiom: Portuguese
+        level: basic
+
+      - idiom: Spanish
+        level: Native
+        
+    interests:
+      - item: Drawing
+        link:
+
+      - item: Gaming
+        link:
+
+      - item: Cooking
+        link:
+
+      - item: Reading
+        link:
+
+career-profile:
+    title: About me 
+    summary: |
+      I`m a National university of Colombia student, I have 22 years old and 
+      on the time i've learnt on this university i've discovered my interest
+       on the lifecycle of the proyects and the magnagement of activities to
+        work according with the schedule. 
+
+education:
+    - degree: Ingenieria de sistemas y computaciòn
+      university: National University of Colombia
+      time: 2013 - actuality
+      details: |
+        only an average student trying to graduate and start a new life 
+
+experiences:
+    - role: Software Analist
+      time: 2017 - 2018
+      company: Indudata LTDA
+      details: |
+        I was a software analist on the startup project Gran titan 
+        designing requirements and wireframes for the plattaform 
+        and defining all the bussiness strategy; also I contibuted 
+         to the implementation of Enterprise Architect sofware on the company
+
+
+projects:
+    title: Projects
+    intro: >
+      Mostly universitary projects
+
+    assignments:
+      - title: DinnerQR
+        link: "#"
+        tagline: "A new way to order on restaurants using your cellphone."
+
+      - title: IbisDiscite
+        link: "#"
+        tagline: "A plattaform for learnig englis gramatic"
+
+  
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 60%
+
+      - name: Java
+        level: 80%
+
+      - name: C
+        level: 50%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 60%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
